@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nadhilken
+- 👋 Hi, I’m @Nadhil Noushad
 - 👀 I’m interested in ... python programing
 - 🌱 I’m currently learning ... AI and machine learning
 - 📫 How to reach me ...cantact no: 8075450910,Email:nadhilken.80@gmail.com
