@@ -1,7 +1,7 @@
-![Nadhil Noushad's card name](https://sparkycardview.vercel.app/api?name=NADHIL%20NOUSHAD&description=Android%20Software%20Developer%20%7C%20Robotics%20Enthusiast&image=https://i.ibb.co/sJcbVw19/173608713.jpgv=4&backgroundColor=%23ecf0f1&instagram=n_a_dh_l&linkedin=YOUR_LINKEDIN&github=YOUR_USERNAME&twitter=YOUR_TWITTER&pattern=leaf&colorPattern=%23eaeaea)
+![Nadhil Noushad's card name](https://sparkycardview.vercel.app/api?name=NADHIL%20NOUSHAD&description=Android%20Software%20Developer%20%7C%20Robotics%20Enthusiast&image=https://i.ibb.co/sJcbVw19/173608713.jpgv=4&backgroundColor=%23ecf0f1&instagram=n_a_dh_l&linkedin=nadhil-ken&github=Nadhilken&pattern=leaf&colorPattern=%23eaeaea)
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views" alt="YOUR_USERNAME" style="width: 150px;" />
+  <img src="https://komarev.com/ghpvc/?username=Nadhilken&label=Profile%20views" alt="Nadhilken" style="width: 150px;" />
 </p>
 </br>
 
@@ -108,17 +108,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=YOUR_USERNAME&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=YOUR_USERNAME&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Nadhilken&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Nadhilken&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=YOUR_USERNAME&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Nadhilken&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<br/><br/>
-
-<hr/>
-
 <br/>
-</details>
-</br></br>
-```
