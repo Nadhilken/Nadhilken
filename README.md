@@ -1,21 +1,127 @@
-# 💫 About Me:
-I'm working on robotics, android development,web development <br>I'm interested in hearing music<br>I'm interested in problem solving and I have that skill<br>I'm currently learning react<br>I also have a knowledge I'm machine learning 
+![Aswin Sparky's card name](https://sparkycardview.vercel.app/api?name=ASWIN%20SPARKY&description=ɪ+ᴍᴀᴋᴇ+ᴛʜɪɴɢs.+ɪ+ʙʀᴇᴀᴋ+ᴛʜɪɴɢs.+ɪ+ᴍᴀᴋᴇ+ᴛʜɪɴɢs+ᴛʜᴀᴛ+ʙʀᴇᴀᴋ+ᴛʜɪɴɢs&image=https://avatars.githubusercontent.com/u/113657908?v=4&backgroundColor=%23ecf0f1&instagram=sparky.drip&linkedin=a-s-w-i-n-s-p-a-r-k-y&github=A-S-W-I-N-S-P-A-R-K-Y&twitter=sparky_drip&pattern=leaf&colorPattern=%23eaeaea)
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=A-S-W-I-N-S-P-A-R-K-Y&label=Profile%20views" alt="A-S-W-I-N-S-P-A-R-K-Y" style="width: 150px;" />
+</p>
+</br>
+
+<div align="center"> 
+  <a href="mailto:sparkymon777@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://wa.me/917012984396" target="_blank">
+    <img src="https://img.shields.io/badge/whatsapp-008000?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://instagram.com/sparky.drip" target="_blank">
+     <img src="https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="left">
+  <!-- Popular Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" />
+
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" />
+
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
+
+  <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo" />
+
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" />
+
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
+
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo" />
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/n_a_dh_l) 
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Nadhilken&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Nadhilken&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nadhilken&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <!-- Web Frameworks -->
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Nadhilken&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
 
----
-[![](https://visitcount.itsvg.in/api?id=Nadhilken&icon=0&color=0)](https://visitcount.itsvg.in)
+  <img src="https://skillicons.dev/icons?i=vuejs" height="40" alt="vuejs logo" />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo" />
+
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo" />
+
+
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
+
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo" />
+
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
+
+  <!-- DevOps and Cloud -->
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
+
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo" />
+
+  <img src="https://skillicons.dev/icons?i=googlecloud" height="40" alt="googlecloud logo" />
+
+  <img src="https://skillicons.dev/icons?i=heroku" height="40" alt="heroku logo" />
+
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo" />
+
+  <!-- Tools -->
+
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
+
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
+
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
+
+  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo" />
+
+  <img src="https://skillicons.dev/icons?i=replit" height="40" alt="replit logo" />
+
+  <!-- Operating Systems -->
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
+
+  <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="ubuntu logo" />
+
+  <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows logo" />
+</div>
+
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/A-S-W-I-N-S-P-A-R-K-Y/A-S-W-I-N-S-P-A-R-K-Y/output/github-contribution-grid-snake.svg" />
+
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=A-S-W-I-N-S-P-A-R-K-Y&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=A-S-W-I-N-S-P-A-R-K-Y&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=A-S-W-I-N-S-P-A-R-K-Y&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+<div align="center">
+<a href='https://ko-fi.com/aswinsparky' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+<br/>
+
+
+</details>
+</br></br>
