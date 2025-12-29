@@ -1,4 +1,4 @@
-![Nadhil Noushad's card name](https://sparkycardview.vercel.app/api?name=NADHIL%20NOUSHAD&description=Android%20Software%20Developer%20%7C%20Robotics%20Enthusiast&image=https://avatars.githubusercontent.com/u/YOUR_USERNAME?v=4&backgroundColor=%23ecf0f1&instagram=n_a_dh_l&linkedin=YOUR_LINKEDIN&github=YOUR_USERNAME&twitter=YOUR_TWITTER&pattern=leaf&colorPattern=%23eaeaea)
+![Nadhil Noushad's card name](https://sparkycardview.vercel.app/api?name=NADHIL%20NOUSHAD&description=Android%20Software%20Developer%20%7C%20Robotics%20Enthusiast&image=https://avatars.githubusercontent.com/u/Nadhilken?v=4&backgroundColor=%23ecf0f1&instagram=n_a_dh_l&linkedin=YOUR_LINKEDIN&github=YOUR_USERNAME&twitter=YOUR_TWITTER&pattern=leaf&colorPattern=%23eaeaea)
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views" alt="YOUR_USERNAME" style="width: 150px;" />
@@ -9,7 +9,7 @@
   <a href="mailto:nadhilken.80@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://wa.me/YOUR_WHATSAPP_NUMBER" target="_blank">
+  <a href="https://wa.me/8075450910" target="_blank">
     <img src="https://img.shields.io/badge/whatsapp-008000?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
   </a>
   <a href="https://instagram.com/n_a_dh_l" target="_blank">
