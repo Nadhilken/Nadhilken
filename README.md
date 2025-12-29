@@ -1,19 +1,19 @@
-![Aswin Sparky's card name](https://sparkycardview.vercel.app/api?name=ASWIN%20SPARKY&description=ɪ+ᴍᴀᴋᴇ+ᴛʜɪɴɢs.+ɪ+ʙʀᴇᴀᴋ+ᴛʜɪɴɢs.+ɪ+ᴍᴀᴋᴇ+ᴛʜɪɴɢs+ᴛʜᴀᴛ+ʙʀᴇᴀᴋ+ᴛʜɪɴɢs&image=https://avatars.githubusercontent.com/u/113657908?v=4&backgroundColor=%23ecf0f1&instagram=sparky.drip&linkedin=a-s-w-i-n-s-p-a-r-k-y&github=A-S-W-I-N-S-P-A-R-K-Y&twitter=sparky_drip&pattern=leaf&colorPattern=%23eaeaea)
+![Nadhil Noushad's card name](https://sparkycardview.vercel.app/api?name=NADHIL%20NOUSHAD&description=Android%20Software%20Developer%20%7C%20Robotics%20Enthusiast&image=https://avatars.githubusercontent.com/u/YOUR_USERNAME?v=4&backgroundColor=%23ecf0f1&instagram=n_a_dh_l&linkedin=YOUR_LINKEDIN&github=YOUR_USERNAME&twitter=YOUR_TWITTER&pattern=leaf&colorPattern=%23eaeaea)
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=A-S-W-I-N-S-P-A-R-K-Y&label=Profile%20views" alt="A-S-W-I-N-S-P-A-R-K-Y" style="width: 150px;" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views" alt="YOUR_USERNAME" style="width: 150px;" />
 </p>
 </br>
 
 <div align="center"> 
-  <a href="mailto:sparkymon777@gmail.com">
+  <a href="mailto:nadhilken.80@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://wa.me/917012984396" target="_blank">
+  <a href="https://wa.me/YOUR_WHATSAPP_NUMBER" target="_blank">
     <img src="https://img.shields.io/badge/whatsapp-008000?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
   </a>
-  <a href="https://instagram.com/sparky.drip" target="_blank">
-     <img src="https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://instagram.com/n_a_dh_l" target="_blank">
+     <img src="https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
   </a>
 </div>
 
@@ -29,24 +29,25 @@
 
   <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo" />
 
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" />
-
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
 
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo" />
 
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo" />
 
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
+
+  <!-- Mobile Development -->
+  <img src="https://skillicons.dev/icons?i=android" height="40" alt="android logo" />
+
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo" />
 
   <!-- Web Frameworks -->
-
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
 
   <img src="https://skillicons.dev/icons?i=vuejs" height="40" alt="vuejs logo" />
 
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo" />
-
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo" />
-
 
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
@@ -54,6 +55,8 @@
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo" />
 
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
+
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo" />
 
   <!-- DevOps and Cloud -->
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
@@ -67,8 +70,9 @@
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo" />
 
   <!-- Tools -->
-
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
+
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo" />
 
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
 
@@ -94,7 +98,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/A-S-W-I-N-S-P-A-R-K-Y/A-S-W-I-N-S-P-A-R-K-Y/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
 
   <br/><br/><br/>
 </div>
@@ -104,10 +108,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=A-S-W-I-N-S-P-A-R-K-Y&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=A-S-W-I-N-S-P-A-R-K-Y&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=YOUR_USERNAME&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=YOUR_USERNAME&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=A-S-W-I-N-S-P-A-R-K-Y&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=YOUR_USERNAME&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
@@ -115,13 +119,6 @@
 <hr/>
 
 <br/>
-
-<div align="center">
-<a href='https://ko-fi.com/aswinsparky' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
-
-
 </details>
 </br></br>
+```
