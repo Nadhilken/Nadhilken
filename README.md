@@ -1,4 +1,4 @@
-![Nadhil Noushad's card name](https://sparkycardview.vercel.app/api?name=NADHIL%20NOUSHAD&description=Android%20Software%20Developer%20%7C%20Robotics%20Enthusiast&image=https://avatars.githubusercontent.com/u/Nadhilken?v=4&backgroundColor=%23ecf0f1&instagram=n_a_dh_l&linkedin=YOUR_LINKEDIN&github=YOUR_USERNAME&twitter=YOUR_TWITTER&pattern=leaf&colorPattern=%23eaeaea)
+![Nadhil Noushad's card name](https://sparkycardview.vercel.app/api?name=NADHIL%20NOUSHAD&description=Android%20Software%20Developer%20%7C%20Robotics%20Enthusiast&image=https://i.ibb.co/sJcbVw19/173608713.jpg&instagram=n_a_dh_l&linkedin=YOUR_LINKEDIN&github=YOUR_USERNAME&twitter=YOUR_TWITTER&pattern=leaf&colorPattern=%23eaeaea)
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views" alt="YOUR_USERNAME" style="width: 150px;" />
